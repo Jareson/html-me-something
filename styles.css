@@ -17,18 +17,17 @@ body {
     text-align: center;
     display: block;
     font-size: 150%;
-    padding-top: 0px;
-    padding-bottom: 0px;
 }
 
 p{
     font-family: Arial;
+    padding: 25px;
 }
 
 .image {
     height: 400px;
     width: 800px;
-    
+    padding: 10px;
 }
 
 #foot {
