@@ -1,0 +1,38 @@
+html {
+    background-color: black;
+}
+
+h1 {
+    margin-top: 0px;
+}
+
+body {
+    width: 150%;
+    max-width: 1080px;
+    font-family: Impact;
+    margin: 0 auto;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: rgb(72, 111, 218);
+    text-align: center;
+    display: block;
+    font-size: 150%;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+p{
+    font-family: Arial;
+}
+
+.image {
+    height: 400px;
+    width: 800px;
+    
+}
+
+#foot {
+    color: gold;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
